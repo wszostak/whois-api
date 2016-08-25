@@ -61,6 +61,7 @@ const grammarRegexes = {
     /expiration_date:\s*(.+)/i,
     /expire-date:\s*(.+)/i,
     /renewal:\s*(.+)/i,
+    /renewal date:\s*(.+)/i,
     /expire:\s*(.+)/i,
   ],
   'updated_date':	[
